@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Orbit&family=Rajdhani:wght@300;400;500;600;700&display=swap");
+@font-face {
+  font-family: "GmarketSansMedium";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-family: (
+  main_kr: "NotoSans",
+  main_en: "Rajdhani",
+  sub_kr: "GmarketSansMedium",
+  sub_en: "Orbit",
+);
+$font-color: (
+  primary: #337ab7,
+  primary-dark: #1d2833,
+  primary-light: #dddddd,
+  bg: #f2f2f2,
+);
